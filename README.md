@@ -1,2 +1,2 @@
 # job-scheduling
-Fortran code to solve job scheduling problems
+Draft Fortran code to solve job scheduling problems.
